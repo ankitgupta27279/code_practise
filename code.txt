@@ -1,0 +1,686 @@
+manish sir - 040720226
+Java Programs
+=====================
+
+83. Java Program: Change a string such that first character is upper case, second is lower case and so on.
+84. Java Program: To find duplicates between two lists.
+85. WAP to compare two Hashmap for equality?
+86. Java Program: Sort a string which has only 0, 1, 2 in it. 
+Sample input: 010201010100222112
+Sample output: 000000011111122222
+87. Java Program: String s = "sub53od73th"; Eliminate the numbers alone. Print the Alphabets.
+88. Write a program to get all the Links from a Webpage and then display them.
+89. Java program: Reverse the words in the sentence.
+90. Java program: Find the count of each element in a two dimensional matrix.
+91. Java Program: Find duplicate elements in an array of numbers.
+92. Java Program: Identify if a String is a Palindrome. Print Factorial of a number.
+93. Java Program: Reverse a String.
+94. WAP for Anagram problem.
+95. Java Program: Write 0 and 1 separately from 10011101101 and find the frequency of each.
+96. Java Program: To print the frequency of words in a paragraph.
+97. Reverse words in a sentence keeping word position intact
+98. Reverse words: Input - "Manish Kumar" output : "Kumar Manish"
+=============================================
+
+
+chatgpt
+
+Array/List Problems
+
+1. Find the largest number without using max().
+2. Find the smallest number without using min().
+3. Find the third largest number without sorting.
+4. Find the second smallest number without sorting.
+5. Remove duplicate elements from a list without using set().
+6. Find the missing number in a sequence (e.g., [1, 2, 4, 5] → 3).
+7. Find all duplicate elements in a list.
+8. Find the frequency of each element in a list.
+9. Move all zeros to the end while maintaining the order of other elements.
+10. Rotate a list by k positions.
+
+Number Problems
+
+11. Check if a number is prime.
+12. Print all prime numbers in a given range.
+13. Find the factorial of a number (iterative and recursive).
+14. Check if a number is an Armstrong number.
+15. Check if a number is a palindrome.
+16. Reverse an integer without converting it to a string.
+17. Find the GCD and LCM of two numbers.
+18. Generate the Fibonacci series.
+19. Check if a number is a perfect number.
+20. Count the number of digits in an integer.
+
+String Problems
+
+21. Reverse a string without slicing ([::-1]).
+22. Check if a string is a palindrome.
+23. Count vowels and consonants.
+24. Find the first non-repeating character.
+25. Find the first repeating character.
+26. Check if two strings are anagrams.
+27. Remove duplicate characters from a string.
+28. Count the occurrence of each character.
+29. Find the longest word in a sentence.
+30. Compress a string (e.g., "aaabbc" → "a3b2c1").
+30.---> RGB problem
+30a. find last repeating characters in a string
+30b. print all permutations of a given string
+30c. find kth largest and kth smallest element in array
+
+searching and sorting
+
+Searching & Logic
+
+31. Implement Linear Search.
+32. Implement Binary Search.
+33. Find the two largest numbers in one traversal.
+34. Find pairs whose sum equals a target.
+35. Find triplets whose sum equals zero.
+36. Merge two sorted lists without using sort().
+37. Find the intersection of two lists.
+38. Find the union of two lists.
+39. Find the majority element.
+40. Find the leader elements in an array.
+
+Pattern Problems
+
+41. Print a pyramid.
+42. Print Pascal's Triangle.
+43. Print Floyd's Triangle.
+44. Print a diamond pattern.
+45. Print a hollow square.
+
+Dictionary & Set Problems
+
+46. Invert a dictionary (swap keys and values).
+47. Merge two dictionaries.
+48. Count word frequency in a sentence.
+49. Find common keys in two dictionaries.
+50. Group words that are anagrams.
+
+Beginner-Friendly Interview Questions
+
+51. Find the maximum difference between two elements.
+52. Check if a list is sorted.
+53. Find the equilibrium index of an array.
+54. Reverse a list without using reverse().
+55. Find the unique element where every other element appears twice.
+56. Implement a stack using a list.
+57. Implement a queue using a list.
+58. Check if brackets are balanced.
+59. Find the longest common prefix among strings.
+60. Find the longest consecutive sequence in an array.
+
+Frequently Asked in Interviews (Easy → Medium)
+
+1. Two Sum
+2. Valid Parentheses
+3. Merge Intervals
+4. Rotate Array
+5. Product of Array Except Self
+6. Maximum Subarray (Kadane's Algorithm)
+7. Best Time to Buy and Sell Stock
+8. Longest Substring Without Repeating Characters
+9. Merge Sorted Arrays
+10. Trapping Rain Water
+
+
+If you're aiming for companies like TCS, Infosys, Wipro, Accenture, Capgemini, Cognizant, or product companies like Amazon, Microsoft, or Google, mastering these questions provides a strong foundation for coding rounds.
+
+
+
+Arrays & Lists
+
+1. Find the largest element without using max().
+2. Find the smallest element without using min().
+3. Find the second largest element without sorting.
+4. Find the third largest element without sorting.
+5. Find the second smallest element without sorting.
+6. Reverse a list without using reverse() or slicing ([::-1]).
+7. Remove duplicates without using set().
+8. Find duplicate elements without using Counter.
+9. Find the frequency of each element without using Counter.
+10. Check whether a list is sorted without using sorted().
+11. Move all zeros to the end without creating another list.
+12. Move all negative numbers to one side.
+13. Find the missing number from 1 to n.
+14. Find the only unique element where every other element appears twice.
+15. Find the pair with the largest sum.
+16. Find the pair whose sum equals a target.
+17. Find the maximum difference between two elements.
+18. Merge two sorted arrays without using sort().
+19. Find the intersection of two lists without using sets.
+20. Rotate an array by k positions.
+
+Strings
+
+21. Reverse a string without slicing.
+22. Check whether a string is a palindrome without using reversed().
+23. Count vowels and consonants.
+24. Count words in a sentence without using split().
+25. Remove duplicate characters.
+26. Find the first non-repeating character.
+27. Find the first repeating character.
+28. Check if two strings are anagrams without sorting.
+29. Compress a string (aaabbc → a3b2c1).
+30. Reverse the order of words in a sentence.
+
+Numbers
+
+31. Reverse a number without converting it to a string.
+32. Check if a number is a palindrome without string conversion.
+33. Find the sum of digits.
+34. Find the product of digits.
+35. Count the number of digits.
+36. Find the largest digit.
+37. Check if a number is prime.
+38. Print all prime numbers in a range.
+39. Find GCD using the Euclidean algorithm.
+40. Find LCM without using a library.
+
+Matrix Problems
+
+41. Print the transpose of a matrix.
+42. Rotate a matrix by 90 degrees.
+43. Find the row with the maximum sum.
+44. Find the column with the maximum sum.
+45. Print the boundary elements.
+46. Print the diagonal elements.
+47. Search an element in a matrix.
+48. Find the largest element in a matrix.
+49. Print a matrix in spiral order.
+50. Check whether a matrix is symmetric.
+
+Recursion
+
+51. Factorial using recursion.
+52. Fibonacci using recursion.
+53. Sum of digits using recursion.
+54. Reverse a string using recursion.
+55. Check palindrome using recursion.
+56. Binary search using recursion.
+57. Power function (x^n) using recursion.
+58. Count occurrences recursively.
+59. Print numbers from n to 1.
+60. Print numbers from 1 to n.
+
+Stack & Queue
+
+61. Implement a stack using a list.
+62. Implement a queue using two stacks.
+63. Reverse a stack.
+64. Check balanced parentheses.
+65. Find the next greater element.
+66. Evaluate a postfix expression.
+67. Convert infix to postfix.
+68. Reverse a queue.
+69. Implement a circular queue.
+70. Find the minimum element in a stack.
+
+Sliding Window & Two Pointers
+
+71. Find the maximum sum subarray of size k.
+72. Find the longest substring without repeating characters.
+73. Find the longest substring with exactly k distinct characters.
+74. Find the minimum size subarray with a given sum.
+75. Remove duplicates from a sorted array in place.
+76. Merge two sorted arrays using two pointers.
+77. Find all pairs with a given sum.
+78. Sort an array containing only 0, 1, and 2.
+79. Find the container with the most water.
+80. Trapping rainwater.
+
+Bit Manipulation
+
+81. Check if a number is a power of 2.
+82. Count set bits.
+83. Swap two numbers using XOR.
+84. Find the missing number using XOR.
+85. Find the unique element using XOR.
+86. Check whether a number is even or odd using bitwise operators.
+87. Reverse bits of a number.
+88. Find two unique numbers in an array.
+89. Multiply by 2 using bitwise operators.
+90. Divide by 2 using bitwise operators.
+
+Interview Favorites
+
+91. Two Sum
+92. Maximum Subarray (Kadane's Algorithm)
+93. Merge Intervals
+94. Best Time to Buy and Sell Stock
+95. Product of Array Except Self
+96. Longest Common Prefix
+97. Valid Parentheses
+98. Group Anagrams
+99. Top K Frequent Elements
+100. Longest Consecutive Sequence
+
+
+A good practice progression
+Beginner (1–30): Build confidence with loops, conditions, and basic data structures.
+Intermediate (31–70): Learn recursion, matrices, stacks, queues, and algorithmic thinking.
+Advanced (71–100): Focus on common interview patterns like sliding windows, two pointers, bit manipulation, and optimization.
+
+Working through these 100 questions will cover many of the core problem-solving patterns tested in Python coding interviews.
+
+
+DSA
+4. Linked List
+
+Frequently asked even for SDETs.
+
+Reverse linked list.
+Detect cycle.
+Find middle node.
+Merge two linked lists.
+Remove nth node from end.
+Reverse every K nodes.
+
+5. Stack & Queue
+Valid parentheses.
+Implement stack using queue.
+Queue using stacks.
+Next greater element.
+Min Stack.
+
+6. Tree Questions
+
+Medium-level coding.
+
+DFS
+BFS
+Height of tree
+Inorder traversal
+Level order traversal
+Lowest common ancestor
+
+7. Binary Search
+Search in sorted array
+First occurrence
+Last occurrence
+Search rotated array
+
+8. Recursion
+Fibonacci
+Factorial
+Tower of Hanoi
+Generate subsets
+Generate permutations
+
+9. Dynamic Programming (sometimes)
+
+Usually one easy DP question.
+
+Climbing stairs
+Coin change
+Longest common subsequence
+Longest increasing subsequence
+
+
+
+Coding Questions Frequently Asked in Senior SDET Interviews
+Reverse a string.
+Reverse words in a sentence.
+First non-repeating character.
+Remove duplicates from a string.
+Longest substring without repeating characters.
+Two Sum.
+Missing number.
+Merge intervals.
+LRU Cache.
+Valid Parentheses.
+Reverse Linked List.
+Detect cycle in Linked List.
+Binary Search.
+Producer-Consumer.
+Thread-safe Singleton.
+Java 8: Second highest salary.
+Java 8: Group by department.
+Java 8: Count duplicates.
+Parse JSON.
+Design a Selenium framework.
+
+
+
+************************************************************************
+1. String Questions (30+)
+Reverse a string.
+Reverse words in a sentence.
+Reverse each word individually.
+Check if a string is a palindrome.
+Find the longest palindrome substring.
+Find the first non-repeating character.
+Find the first repeated character.
+Count occurrences of each character.
+Remove duplicate characters.
+Remove duplicate words.
+Check whether two strings are anagrams.
+Group anagrams.
+String compression.
+Expand compressed string.
+Check if one string is rotation of another.
+Find longest common prefix.
+Longest substring without repeating characters.
+Longest substring with K distinct characters.
+Count vowels and consonants.
+Remove all spaces.
+Find all permutations.
+Generate all substrings.
+Check balanced brackets.
+Validate parentheses.
+Find duplicate words.
+Find word frequency.
+Reverse only vowels.
+Reverse only letters.
+Convert Roman to Integer.
+Integer to Roman.
+String to Integer (atoi).
+Implement strstr().
+Implement split().
+Remove adjacent duplicates.
+Minimum window substring.
+
+2. Array Questions (35+)
+Largest number.
+Second largest.
+Third largest.
+Smallest element.
+Missing number.
+Duplicate number.
+Remove duplicates.
+Rotate array left.
+Rotate array right.
+Reverse array.
+Merge sorted arrays.
+Merge intervals.
+Find intersection.
+Find union.
+Move zeros to end.
+Move negatives to beginning.
+Sort 0,1,2.
+Maximum subarray.
+Maximum product subarray.
+Pair with given sum.
+Triplet sum.
+Four sum.
+Stock buy-sell.
+Rainwater trapping.
+Container with most water.
+Product except self.
+Kadane algorithm.
+Spiral matrix.
+Matrix transpose.
+Rotate matrix.
+Search in matrix.
+Find equilibrium index.
+Majority element.
+Peak element.
+Kth largest element.
+
+3. Linked List
+Reverse linked list.
+Reverse recursively.
+Detect loop.
+Remove loop.
+Find middle node.
+Merge two lists.
+Merge K lists.
+Remove duplicates.
+Delete Nth node.
+Rotate linked list.
+Reverse every K nodes.
+Add two linked lists.
+Intersection of linked lists.
+Palindrome linked list.
+Clone linked list with random pointer.
+
+4. Stack
+Valid parentheses.
+Min stack.
+Stack using queues.
+Queue using stacks.
+Evaluate postfix.
+Evaluate prefix.
+Infix to postfix.
+Next greater element.
+Stock span.
+Largest rectangle in histogram.
+Daily temperatures.
+
+5. Queue
+Circular queue.
+Deque implementation.
+Sliding window maximum.
+Rotten oranges.
+First non-repeating stream character.
+
+6. Tree
+Inorder traversal.
+Preorder.
+Postorder.
+Level order.
+Zigzag traversal.
+Tree height.
+Diameter.
+Balanced tree.
+BST validation.
+Lowest common ancestor.
+Right view.
+Left view.
+Top view.
+Bottom view.
+Mirror tree.
+Symmetric tree.
+Serialize tree.
+Deserialize tree.
+Path sum.
+Maximum path sum.
+
+7. Binary Search
+Classic binary search.
+First occurrence.
+Last occurrence.
+Search insert position.
+Search rotated array.
+Find minimum in rotated array.
+Peak element.
+Square root.
+Allocate books.
+Aggressive cows.
+
+8. HashMap
+Two Sum.
+Group anagrams.
+Word frequency.
+Character frequency.
+Longest consecutive sequence.
+Happy number.
+Isomorphic strings.
+LRU Cache.
+Randomized Set.
+Design HashMap.
+
+9. Java 8 Streams
+Second highest salary.
+Highest salary by department.
+Group employees by city.
+Group by age.
+Count employees by department.
+Sort employees.
+Remove duplicates.
+Convert list to map.
+Flatten nested list.
+Find duplicate numbers.
+Find duplicate characters.
+Count word frequency.
+Partition even and odd.
+Join strings.
+Average salary.
+Max salary.
+Min salary.
+Find oldest employee.
+Distinct departments.
+Top N salaries.
+
+10. Multithreading
+Thread-safe Singleton.
+Producer Consumer.
+Reader Writer.
+Dining Philosophers.
+Deadlock example.
+Prevent deadlock.
+Thread pool implementation.
+CountDownLatch.
+CyclicBarrier.
+CompletableFuture.
+Fork Join.
+Semaphore.
+BlockingQueue.
+Volatile example.
+Synchronization example.
+
+11. File Handling
+Compare two files.
+Find duplicate lines.
+Read CSV.
+Write CSV.
+Read huge file efficiently.
+Find most frequent word.
+Merge files.
+Split large file.
+Compare XML.
+Compare JSON.
+
+12. JSON/XML
+Parse JSON.
+Parse nested JSON.
+Compare JSON.
+Flatten JSON.
+Read XML.
+Validate XML.
+Compare XML.
+Extract JSON paths.
+Serialize object.
+Deserialize object.
+
+13. Selenium Coding
+Dynamic XPath generator.
+Generic wait utility.
+Retry clicking stale element.
+Retry failed tests.
+Screenshot utility.
+Handle multiple windows.
+Handle Shadow DOM.
+Handle frames.
+Handle alerts.
+File upload.
+File download validation.
+JavaScript click.
+Infinite scrolling.
+Retry mechanism.
+ThreadLocal Driver.
+Driver Factory.
+Selenium Grid.
+Parallel execution.
+Dynamic locator builder.
+Generic WebTable utility.
+
+14. API Automation
+Compare two JSON responses.
+Validate schema.
+OAuth token generation.
+Multipart upload.
+File download validation.
+Retry failed API.
+Polling API.
+Chained API calls.
+Extract nested JSON.
+Validate response time.
+Compare database and API response.
+Deserialize generic response.
+
+15. Database
+JDBC connection utility.
+Connection pool.
+Compare DB with UI.
+Compare DB with API.
+Batch inserts.
+Read ResultSet into objects.
+Dynamic SQL builder.
+Execute stored procedures.
+Pagination query.
+Duplicate record detection.
+
+16. Design Problems (Very Common for 12+ Years)
+Design a Selenium framework from scratch.
+Design an API automation framework.
+Design a hybrid framework.
+Design a data-driven framework.
+Design keyword-driven framework.
+Design BDD framework.
+Design reporting framework.
+Design logging framework.
+Design retry framework.
+Design driver management.
+Design test data management.
+Design parallel execution.
+Design cloud execution.
+Design CI/CD integration.
+Design framework for microservices testing.
+Design automation for 10,000 test cases.
+Design cross-browser execution.
+Design distributed execution.
+Design framework supporting multiple applications.
+Design reusable test libraries.
+
+17. Machine Coding (60–120 minutes)
+Build a mini Selenium framework.
+Build an API framework.
+Create a JSON comparator.
+Build a CSV comparator.
+Build a log parser.
+Build a retry engine.
+Build a scheduler.
+Build a report generator.
+Create a file comparison tool.
+Build a generic validation library.
+Build a REST client.
+Build a parallel execution engine.
+Implement a custom assertion library.
+Build a dynamic test runner.
+Build a configuration manager.
+FAANG / Product Company Favorites
+
+These problems come up frequently in coding rounds for senior SDET roles:
+
+Two Sum
+Three Sum
+Merge Intervals
+Meeting Rooms
+LRU Cache
+LFU Cache
+Longest Substring Without Repeating Characters
+Minimum Window Substring
+Top K Frequent Elements
+K Closest Points to Origin
+Product of Array Except Self
+Maximum Sliding Window
+Search in Rotated Sorted Array
+Number of Islands
+Course Schedule
+Clone Graph
+Word Ladder
+Merge K Sorted Lists
+Kth Largest Element in an Array
+Median of Two Sorted Arrays (less common, but occasionally asked)
+Design a Parking Lot (object-oriented design)
+Design a URL Shortener
+Design a Rate Limiter
+Design a Logger
+Design an Elevator System
+Design a Library Management System
+
+For senior SDET interviews, it's also common for interviewers to ask follow-up questions after you solve a problem, such as improving time or space complexity, making the solution thread-safe, handling edge cases, writing unit tests, or adapting the implementation for large-scale automation frameworks. These discussions often differentiate senior candidates from mid-level ones.
+************************************************************************
